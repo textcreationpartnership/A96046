@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Right Honourable Robert Earle of Warwick Lord High Admirall of England, fully relating the condition of the affaires at sea. With a list of the number of the Parliaments ships, and the names of the severall commanders in them, now riding in the Downes. Read in the House of Peeres upon Friday the 8 of September, 1648. And commanded to be printed and published.</title>
+            <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96046</idno>
+            <idno type="STC">Wing W1001</idno>
+            <idno type="STC">Thomason E462_25</idno>
+            <idno type="STC">ESTC R204169</idno>
+            <idno type="EEBO-CITATION">99863852</idno>
+            <idno type="PROQUEST">99863852</idno>
+            <idno type="VID">116068</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116068)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E462[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Right Honourable Robert Earle of Warwick Lord High Admirall of England, fully relating the condition of the affaires at sea. With a list of the number of the Parliaments ships, and the names of the severall commanders in them, now riding in the Downes. Read in the House of Peeres upon Friday the 8 of September, 1648. And commanded to be printed and published.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept ye 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116068:1" rendition="simple:additions"/>
+            <p>A LETTER FROM The Right Honourable ROBERT Earle of WARWICK Lord High Admirall OF ENGLAND, Fully relating the condition of the Af<g ref="char:EOLhyphen"/>faires at Sea.</p>
+            <p>With a Liſt of the number of the Par<g ref="char:EOLhyphen"/>liaments Ships, and the names of the ſeve<g ref="char:EOLhyphen"/>rall Commanders in them, now riding in the DOWNES.</p>
+            <p>Read in the Houſe of Peeres upon Friday the 8 of September, 1648. And commanded to be printed and publiſhed.</p>
+            <p>
+               <add>Sept y<hi rend="sup">e</hi> 9<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed for <hi>John Wright</hi> at the Kings Head in the old Bayley. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:116068:2"/>
+            <head>To the Right Honourable <hi>Edward</hi> Earle of <hi>Mancheſter,</hi> Speaker of the Houſe of Peers <hi>pro tempore.</hi>
+            </head>
+            <opener>
+               <salute>My Lord:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He proceedings of the Fleet ſince our weighing from Lee Road, I did on Saturday laſt repreſent by Letter from <hi>Albrough</hi> Road, to the Committee at Derby-Houſe, with my deſire that the ſame might be commu<g ref="char:EOLhyphen"/>nicated to both Houſes of Parliament; Since that it hath pleaſed God to bring the whole Fleet ſafely into the Downes; And now I ſhall make bold to give the trouble of this addition.</p>
+            <p>It pleaſed God notwithſtanding all the Counter workings of the Kingdomes Ene<g ref="char:EOLhyphen"/>mies, and the great diſcouragements that occurred in this expedition to inable us, after ſome time to get the Ships (lately in
+<pb n="2" facs="tcp:116068:3"/>the River of Thames) conveniently man<g ref="char:EOLhyphen"/>ned; his power and goodneſſe to the Na<g ref="char:EOLhyphen"/>tion was further manifeſted in giving to the companies of thoſe ſeverall Ships Spirits unanimouſly to ingage their reſolutions againſt the common Enemies of the King<g ref="char:EOLhyphen"/>dome at Sea, that had ſo wickedly depar<g ref="char:EOLhyphen"/>ted from their truſt and duty (whereof we had a moſt glorious and ſeaſonable experiment, at that time when the Ene<g ref="char:EOLhyphen"/>my drew neare us with a Fleet above the proportion of that ſtrength we then had) to the defeating and diſappointment of that confidence of ſome who flooliſhly boaſted of the greateſt ſhare and intereſt in their affection. That mercy the ſame pow<g ref="char:EOLhyphen"/>er was pleaſed to ſecond, with cauſing thoſe Enemies to turne their Back even when his arrowes were but making ready upon the ſtring againſt the face of them, and yet God reſted not there, but the next day after the Enemies retirement he was pleaſed to bring into a happy conjunction with us, the Portſmouth Shipps, whoſe
+<pb n="3" facs="tcp:116068:3"/>companies had likewiſe teſtified the ſame Spirit of courage and unaminity for the Parliament Service, and now we are here together with a Fleet, which for number and quality of Ships and temper of Sea<g ref="char:EOLhyphen"/>men is fitted I hope through the ſtrength of God effectually to execute and accom<g ref="char:EOLhyphen"/>pliſh what ever may rationally be expect<g ref="char:EOLhyphen"/>ed from it for the publique Service: a Liſt of the Ships I have here incloſed, and tru<g ref="char:EOLhyphen"/>ly I may not omit to repreſent the fidelity, conſtancy, and courage of the Captaines, having had no occaſion fince my coming forth to take notice of the leſt backward<g ref="char:EOLhyphen"/>neſſe in any of them to purſue their duty with the utmoſt diligence.</p>
+            <p>I ſhall ſtay here a little time to ſupply water, Ballace, and a few other neceſſaries which being compleated, I ſhall God wil<g ref="char:EOLhyphen"/>ling improve time and opportunity with all poſſible advantage for action; not doubt<g ref="char:EOLhyphen"/>ing but as God hath hitherto helped us, ſo he will ſtill accompany us with his pre<g ref="char:EOLhyphen"/>ſence, counſell and bleſſing, and make beare his glorious Arme at Sea as he hath
+<pb n="4" facs="tcp:116068:4"/>done one Shore, and ſo make it good that he is the ſtrength and confidence both of the ends of the Earth, and of them that are a farr off upon the Sea.</p>
+            <p>I ſhall adde, that being now upon the place I have conſidered the great impor<g ref="char:EOLhyphen"/>tance of getting the Caſtles at the Downes into a condition of Service, the protection of the Fleet and of Trade having ſuch a Dependance thereupon; of their great ru<g ref="char:EOLhyphen"/>ines I am now an eye witneſſe. If therfore a courſe may be thought upon for their put<g ref="char:EOLhyphen"/>ting into repaire, and ſetling of an eſtablſh<g ref="char:EOLhyphen"/>ment for their future pay, it would be wor<g ref="char:EOLhyphen"/>thy of the Parliaments care to direct it, which in diſcharge of my duty, I doe earneſtly recommend unto them accor<g ref="char:EOLhyphen"/>dingly, and ſo defiring God to direct and proſper all your Counſells to his glory and the Kingdoms ſetlement, I reſt</p>
+            <closer>
+               <dateline>Deale <date>the 5. of <hi>Septemb.</hi> 1648.</date>
+               </dateline>
+               <signed>Your Lorſhips Humble Servant, <hi>Warwick.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="catalogue_of_the_fleet_and_commanders">
+            <pb n="5" facs="tcp:116068:4"/>
+            <head>A Liſt of the Parliaments Fleet now at the Downes and thereabouts, with the names of the Commanders.</head>
+            <opener>
+               <dateline>
+                  <date>5 Septemb. 1648.</date>
+               </dateline>
+            </opener>
+            <p>
+               <table>
+                  <row>
+                     <cell>ST. George</cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>RObert</hi> Earle of <hi>Warwick</hi>
+                              <lb/> Lord High Admirall,</item>
+                           <item>Captaine <hi>Robert Moulton</hi>
+                              <lb/> his Captaine.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Unicorne</cell>
+                     <cell>Captaine <hi>Richard Haddocke</hi>
+                        <lb/> Vice-Admirall</cell>
+                  </row>
+                  <row>
+                     <cell>Lion</cell>
+                     <cell>Sir <hi>George Aiſcough</hi> Rere Ad<g ref="char:EOLhyphen"/>mirall</cell>
+                  </row>
+                  <row>
+                     <cell>Phoenix.</cell>
+                     <cell>Capt. <hi>John Bowen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Non-ſuch</cell>
+                     <cell>Capt. <hi>Rich. Willoughby</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Adventure</cell>
+                     <cell>Capt. <hi>Andrew Ball</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tigre</cell>
+                     <cell>Capt. <hi>James Peacock</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Mary Roſe</cell>
+                     <cell>Capt. <hi>Tho. Harriſon</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Providence</cell>
+                     <cell>Capt. <hi>John Mildmay</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Fellowſhip</cell>
+                     <cell>Capt. <hi>Francis Penroſe</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hector</cell>
+                     <cell>Capt. <hi>Robert Nixon</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="6" facs="tcp:116068:5"/> Warwick</cell>
+                     <cell>Capt. <hi>John Edwin</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Recovery</cell>
+                     <cell>Capt. <hi>Owen Cox</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Grey-hound</cell>
+                     <cell>Capt. <hi>John Coppin</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Teuth Whelpe</cell>
+                     <cell>Capt. <hi>William Brandley</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Nichodemas</cell>
+                     <cell>Capt. <hi>Tho. Pacy</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Weymouth Pinck</cell>
+                     <cell>Capt. <hi>John Perce</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Lilly</cell>
+                     <cell>Capt. <hi>John Lambert</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hart</cell>
+                     <cell>Capt. <hi>John Bouden</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Robert</cell>
+                     <cell>Capt. <hi>William Jenins</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dove</cell>
+                     <cell>
+                        <hi>Jacob Reynolds</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Three Ketches</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Beſides,
+<table>
+                  <row>
+                     <cell> Hunter Dogger-Boate</cell>
+                     <cell>
+                        <hi>Richard Newberry</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dolphin</cell>
+                     <cell>
+                        <hi>William Warren</hi>
+                     </cell>
+                  </row>
+               </table> Yet about Colcheſter.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
